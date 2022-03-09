@@ -5,19 +5,19 @@
 프로젝트 수행과정에 대한 더욱 세부적인 사항은 .ipynb 파일에서 확인하실 수 있습니다.
 
 ## 팀원 소개
-김준기 star956733@gmail.com
-
-엄성현 tjdgus510@gmail.com
-
-이경진 kungjin0119@naver.com
-
-이상화 templas332@naver.com
-
-임혜림 eim0801@naver.com
-
-조민지 study.minji.study@gmail.com
-
-하은겸 foreverek4th@naver.com
+>김준기 star956733@gmail.com
+>
+>엄성현 tjdgus510@gmail.com
+>
+>이경진 kungjin0119@naver.com
+>
+>이상화 templas332@naver.com
+>
+>임혜림 eim0801@naver.com
+>
+>조민지 study.minji.study@gmail.com
+>
+>하은겸 foreverek4th@naver.com
 
 ![image](https://user-images.githubusercontent.com/92901802/157468547-71ca060d-32b6-4387-be8c-26c518b3eb09.png)
 
@@ -67,7 +67,7 @@
 
 ![image](https://user-images.githubusercontent.com/92901802/157470217-24ee1405-a1d3-43f8-ad58-479d3a44560b.png)
 
-개선 방향 내용 추가(2022. 01. 10.)
+###개선 방향 내용 추가(2022. 01. 10.)
 사람이 직접 모든 문장에 태깅을 하는 작업은 데이터 확보나 태그의 일관성 확보에 있어서 상당히 비효율적이었습니다.
 
 이는 확보할 수 있는 데이터의 절대적인 수를 현저히 감소시켰으며, 사람의 주관이 주입된 태깅은 모델의 정확도가 더 이상 높아지지 못하도록 제한하였습니다.
